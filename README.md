@@ -6,4 +6,4 @@ The template is based on the [Nuxt3 Starter template](https://github.com/nuxt/st
 
 ## Versioning
 
-Every branch contains the template used for the coresponding create-sidebase package version. This is to ensure that older versions of the CLI can still retrieve the correct base template required by the other packages it installs. 
+Every branch contains the template for a specific Nuxt version. This template creates a new sidebase project with the required Nuxt version. This is to ensure that older instances of the starter will still properly set up the project.
